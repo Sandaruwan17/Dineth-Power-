@@ -1,4 +1,4 @@
-{
+.{
   "creds": {
     "noiseKey": {
       "private": {
@@ -53,7 +53,7 @@
     },
     "me": {
       "id": "94741450573:4@s.whatsapp.net",
-      "name": "🎈"
+      "name": "Dineth Power"
     },
     "signalIdentities": [
       {
